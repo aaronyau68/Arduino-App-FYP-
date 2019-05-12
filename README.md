@@ -3,6 +3,8 @@
 ### Project Background & Description
 This project is a sub system of the Final Year Project, which is an Android mobile application that provides two main functions: gaming and recycling. The App works together with Arduino to perform the main functions.
 
+---
+
 ### Gaming
 *The final product:* <br>
 <img src="./img/gameGIF.gif" alt="drawing"/>
@@ -12,23 +14,17 @@ A simple entertaining arcade machine for user to get discount by playing the gam
 *Sequence Diagram for Gaming:* <br>
 <img src="./img/AES_Game.png" alt="drawing"/>
 
+---
+
 ### Recycling
 This is another method to provide discount to user. We encourage user to bring used plastic bottle or aluminum can to the machine and do recycling. User need to be authenticated by placing their RFID card onto the RFID reader. After that user need to select “recycle” button to start the activity. Then, user need to put the object in front of the camera. The mobile App will take a photo and use Google Cloud Vision API to do object recognition. If a plastic bottle or aluminum can is recognized, user will get reward in form of discount.
 
 *Sequence Diagram for Recycle:* <br>
 <img src="./img/AES_Recycle.png" alt="drawing"/>
 
+---
+
 ### Cap Screen of the Application
-
-
-
-
-
-
-
-
-
-
 <table>
   <tr>
     <td>
