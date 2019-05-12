@@ -42,7 +42,7 @@ This is another method to provide discount to user. We encourage user to bring u
   </tr>
     <tr>
     <td>
-      Card Reader: <br>
+      Card Reader (MFRC522): <br>
       <img src="./img/MFRC522 RFID reader.jpg" alt="drawing" height="800px" width="390px"/>
     </td>
     <td>
