@@ -31,30 +31,40 @@ This is another method to provide discount to user. We encourage user to bring u
 
 <table>
   <tr>
-    <td>
       apk need to be installed: <br>
+    <td>
       <img src="./img/apk.jpg" alt="drawing" height="800px"/>
     </td>
+  </tr>
+  <tr>
     <td>
       Grant Permission: <br>
       <img src="./img/permission.jpg" alt="drawing" height="800px"/>
-    </td>
+    </td>  
   </tr>
-    <tr>
+  
+   <tr>
     <td>
       Card Reader (MFRC522): <br>
       <img src="./img/MFRC522 RFID reader.jpg" alt="drawing" height="800px" width="390px"/>
-    </td>
+    </td> 
+  </tr>
+  
+  <tr>
     <td>
       Select Action: <br>
       <img src="./img/select action.jpg" alt="drawing" height="800px"/>
     </td>
   </tr>
+  
   <tr>
     <td>
       Close Connection: <br>
       <img src="./img/closed connection.jpg" alt="drawing" height="800px"/>
     </td>
+  </tr>
+  
+  <tr>
     <td>
       Final Layout: <br>
       <img src="./img/final layout.png" alt="drawing" height="800px"/>
