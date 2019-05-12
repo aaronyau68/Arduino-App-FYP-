@@ -31,8 +31,8 @@ This is another method to provide discount to user. We encourage user to bring u
 
 <table>
   <tr>
-      apk need to be installed: <br>
     <td>
+      apk need to be installed: <br>
       <img src="./img/apk.jpg" alt="drawing" height="800px"/>
     </td>
   </tr>
