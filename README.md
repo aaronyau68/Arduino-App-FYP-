@@ -9,7 +9,7 @@ This project is a sub system of the Final Year Project, which is an Android mobi
 *The final product:* <br>
 <img src="./img/gameGIF.gif" alt="drawing"/>
 
-A simple entertaining arcade machine for user to get discount by playing the game. User can use and control the machine through the Android App. It starts when user put the RFID card to the reader. When the machine recognizes the user, they can start playing the game. User need to put a ball to get a random discount. After the ball falls into a random hole, user can get the corresponding discount according the hole. Then, the Arduino will send back the data to the mobile app and also update the database. 
+This is a simple entertaining arcade machine for user to get discount by playing the game. User can use and control the machine through the Android App. It starts when user put the RFID card to the reader. When the machine recognizes the user, they can start playing the game. User need to put a ball to get a random discount. After the ball falls into a random hole, user can get the corresponding discount according the hole. Then, the Arduino will send back the data to the mobile app and also update the database. 
 
 *Sequence Diagram for Gaming:* <br>
 <img src="./img/AES_Game.png" alt="drawing"/>
